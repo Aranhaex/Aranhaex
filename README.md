@@ -97,7 +97,7 @@ Me chamo Ian Gabriel tenho 20 anos e moro em Brasília DF. Concluí o curso téc
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Aranhaex&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Aranhaex&show_icons=true&theme=tokyonight&locale=pt-br" 
   />
 
 <img 
