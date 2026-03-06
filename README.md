@@ -84,6 +84,15 @@ Me chamo Ian Gabriel tenho 20 anos e moro em Brasília DF. Concluí o curso téc
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
 />
+
+<img 
+    align="left" 
+    alt="Mysql" 
+    title="Mysql"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" 
+/>
           
 
 <br/>
