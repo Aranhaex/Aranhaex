@@ -22,6 +22,14 @@ Me chamo Ian Gabriel tenho 20 anos e moro em Brasília DF. Concluí o curso téc
 </p>
 
 ---
+### 📊 Estatísticas
+
+<div align="center">
+  <img src="https://github-readme-stats.zcy.dev/api?username=Aranhaex&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.zcy.dev/api/top-langs?username=Aranhaex&langs_count=5&theme=tokyonight" />
+</div>
+
+---
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -98,22 +106,4 @@ Me chamo Ian Gabriel tenho 20 anos e moro em Brasília DF. Concluí o curso téc
 <br/>
 <br/>
 
-### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Aranhaex&show_icons=true&theme=tokyonight&locale=pt-br" 
-  />
-
-<img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aranhaex&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=10" 
-  />
-
-</p>
